@@ -25,3 +25,4 @@ My first repository for IDEA9103
 
 ! [an image of a cat] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF1IwK6-SxM83UpFVY6WtUZxXx-phss_gAUfdKbkTfau6VWVkt)
 
+![An image of the Mona Lisa] 
